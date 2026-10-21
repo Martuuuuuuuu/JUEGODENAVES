@@ -27,3 +27,9 @@
 - Se reemplazaron los datos falsos de la institución por los reales `Institución: E.E.S.T. N° 1 "Eduardo Ader" - Vicente López`.
 - Se eliminó el dato falso fictício del autor `Estudiante: Murray Rothbard`.
 - Se reemplazó el dato falso fictício del autor por `Estudiante: Martina Araujo` contra el plagio.
+
+## [1.2.0] - 2026-10-16
+
+### Archivos básicos de GitHub
+- Se agregó dentro del archivo `.gitignore` el parámetro `*.exe` para que Git ignore todos los archivos de lote ejecutable con esa terminación.
+- Se agregó dentro de `LICENSE` la licensia MIT correspondiente a la tarea, con su descripción detallada.
