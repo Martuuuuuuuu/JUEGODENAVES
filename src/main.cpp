@@ -1,12 +1,12 @@
 /* 
-   ============================================================================================
-   Materia: Laboratorio de Programación (LPR) — 5° Año
-   Institución: E.E.S.T. N° 999 "Österreichische Schule der Nationalökonomie" — Vicente López
-   Archivo: src/main.cpp
-   Actividad 8: Introducción a POO - Motor de Juego de Naves (Clases, Objetos y Constructores)
-   Docente: Mansilla Muñoz York
-   Estudiante: Murray Rothbard
-   ============================================================================================
+    ============================================================================================
+    Materia: Laboratorio de Programación (LPR) — 5° Año
+    Institución: E.E.S.T. N° 1 "Eduardo Ader" — Vicente López
+    Archivo: src/main.cpp
+    Actividad 8: Introducción a POO - Motor de Juego de Naves (Clases, Objetos y Constructores)
+    Docente: Mansilla Muñoz York
+    Estudiante: Martina Araujo
+    ============================================================================================
 */
 
 #include <iostream>

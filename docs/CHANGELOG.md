@@ -18,3 +18,12 @@
 - Se eliminó el archivo `.gitkeep` de la carpeta `src/`.
 - Se agregó el archivo `main.cpp` dentro de `src/` como reemplazo oficial.
 - Se agregó el código fuente dentro de `main.cpp`.
+
+## [1.1.1] - 2026-10-21
+
+### Corrección del código fuente
+- Se agregó un espacio [enter] en el encabezado por el interlineado en rojo.
+- Se eliminaron los datos falsos de la institución `Institución: E.E.S.T. N° 999 "Österreichische Schule der Nationalökonomie" - Vicente López`.
+- Se reemplazaron los datos falsos de la institución por los reales `Institución: E.E.S.T. N° 1 "Eduardo Ader" - Vicente López`.
+- Se eliminó el dato falso fictício del autor `Estudiante: Murray Rothbard`.
+- Se reemplazó el dato falso fictício del autor por `Estudiante: Martina Araujo` contra el plagio.
