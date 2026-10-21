@@ -33,3 +33,9 @@
 ### Archivos básicos de GitHub
 - Se agregó dentro del archivo `.gitignore` el parámetro `*.exe` para que Git ignore todos los archivos de lote ejecutable con esa terminación.
 - Se agregó dentro de `LICENSE` la licensia MIT correspondiente a la tarea, con su descripción detallada.
+
+## [1.3.0] - 2026-10-21
+
+### Capturas y pruebas
+- Se eliminó el archivo `.gitkeep` de la carpeta `capturas`.
+- Se reemplazó el archivo eliminado `.gitkeep` por la evidencia de la correcta compilación del programa `combate_consola.png` y `game_over_consola.png` que quise agregar yo.
